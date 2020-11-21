@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\jhset\Documents\GitHub\Bitcoin-Address-Jacker\Adress Jacker\Adress Jacker\Source.cpp(50,47): warning C4552: '+': result of expression not used
+C:\Users\jhset\Documents\GitHub\Bitcoin-Address-Jacker\Adress Jacker\Adress Jacker\Source.cpp(92,5): warning C4007: 'WinMain': must be '__stdcall'
+C:\Users\jhset\Documents\GitHub\Bitcoin-Address-Jacker\Adress Jacker\Adress Jacker\Source.cpp(96,8): warning C4101: 'dwtThread': unreferenced local variable
+  Adress Jacker.vcxproj -> C:\Users\jhset\Documents\GitHub\Bitcoin-Address-Jacker\Adress Jacker\Debug\Adress Jacker.exe

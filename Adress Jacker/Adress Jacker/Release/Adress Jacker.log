@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\jhset\Documents\GitHub\Bitcoin-Address-Jacker\Adress Jacker\Adress Jacker\Source.cpp(56,47): warning C4552: '+': result of expression not used
+C:\Users\jhset\Documents\GitHub\Bitcoin-Address-Jacker\Adress Jacker\Adress Jacker\Source.cpp(98,5): warning C4007: 'WinMain': must be '__stdcall'
+C:\Users\jhset\Documents\GitHub\Bitcoin-Address-Jacker\Adress Jacker\Adress Jacker\Source.cpp(102,8): warning C4101: 'dwtThread': unreferenced local variable
+     Creating library C:\Users\jhset\Documents\GitHub\Bitcoin-Address-Jacker\Adress Jacker\Release\Adress Jacker.lib and object C:\Users\jhset\Documents\GitHub\Bitcoin-Address-Jacker\Adress Jacker\Release\Adress Jacker.exp
+  Generating code
+  4 of 92 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Adress Jacker.vcxproj -> C:\Users\jhset\Documents\GitHub\Bitcoin-Address-Jacker\Adress Jacker\Release\Adress Jacker.exe
